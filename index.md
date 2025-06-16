@@ -22,7 +22,7 @@
   <li> Arthur Norman, Cambridge University, <em>60+ years of applications: a perspective from Reduce</em> </li>
   <li> Tateaki Sasaki, University of Tsukuba, <em>Symbolic computation in 1974-1976 in Japan</em> </li>
   <li> Stephen Watt, University of Waterloo, <em>Portability of early CAS</em> </li>
-  <li> Michael Wester, University of New Mexico, <em>30 Years of Applications of Computer Algebra (ACA), A
+  <li> Michael Wester, University of New Mexico, <em>30 Years of Applications of Computer Algebra (ACA), a
 personal perspective</em> </li>
   <li> Lihong Zhi, University of Chinese Academy of Sciences, <em>Symbolic-Numeric Computation</em> </li>
 </ul>
