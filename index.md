@@ -5,7 +5,7 @@
 <ul> 
 <li> Robert M. Corless, Dept. Computer Science, Western University </li>
 <li> Arthur C. Norman, Trinity College, Cambridge </li>
-<li> Tomas Recio, Universidad de Nebrija </li>
+<li> Tomás Recio, Universidad de Nebrija </li>
 <li> William Turkel, Dept. History, Western University </li>
 <li> Stephen Watt, Dept. Computer Science, University of Waterloo </li>
 </ul>
