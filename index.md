@@ -21,7 +21,7 @@
   <li> Michael Monagan, Simon Fraser University, <em>Efficiency Problems in the History of Maple</em> </li>
   <li> Arthur Norman, Cambridge University, <em>60+ years of Applications: a perspective from Reduce</em> </li>
   <li> Tateaki Sasaki, University of Tsukuba, <em>Symbolic Computation in 1974-1976 in Japan</em> </li>
-  <li> Stephen Watt, University of Waterloo, <em>TBA</em> </li>
+  <li> Stephen Watt, University of Waterloo, <em>Portability of early CAS</em> </li>
   <li> Michael Wester, University of New Mexico, <em>30 Years of Applications of Computer Algebra (ACA), A
 Personal Perspective</em> </li>
   <li> Lihong Zhi, University of Chinese Academy of Sciences, <em>Symbolic-Numeric Computation</em> </li>
