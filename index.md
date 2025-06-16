@@ -17,7 +17,7 @@
 <ul>
   <li> Rob Corless, Western University, <em>Analysis vs Algebra in Symbolic Computation</em> </li>
   <li> Jürgen Gerhard, Maplesoft, <em>A personal history with computer algebra</em> </li>
-  <li> David Jeffrey, Western University, <em>Albert Rich and the Soft Warehouse</em> </li>
+  <li> David Jeffrey, Western University, <em>The Contributions of Soft Warehouse to Computer Algebra</em> </li>
   <li> Michael Monagan, Simon Fraser University, <em>Efficiency Problems in the History of Maple</em> </li>
   <li> Arthur Norman, Cambridge University, <em>60+ years of Applications: a perspective from Reduce</em> </li>
   <li> Tateaki Sasaki, University of Tsukuba, <em>Symbolic Computation in 1974-1976 in Japan</em> </li>
