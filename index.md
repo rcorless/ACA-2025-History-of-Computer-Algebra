@@ -15,14 +15,14 @@
 <H4> Speakers </H4>
 
 <ul>
-  <li> Rob Corless, Western University, <it>Analysis vs Algebra in Symbolic Computation</it> </li>
-  <li> Jürgen Gerhard, Maplesoft, <it>A personal history with computer algebra</it> </li>
-  <li> David Jeffrey, Western University, <it>Albert Rich and the Soft Warehouse</it> </li>
-  <li> Michael Monagan, Simon Fraser University, <it>Efficiency Problems in the History of Maple</it> </li>
-  <li> Arthur Norman, Cambridge University, <it>60+ years of Applications: a perspective from Reduce</it> </li>
-  <li> Tateaki Sasaki, University of Tsukuba, <it>Symbolic Computation in 1974-1976 in Japan</it> </li>
-  <li> Stephen Watt, University of Waterloo, <it>TBA</it> </li>
-  <li> Michael Wester, University of New Mexico, <it>30 Years of Applications of Computer Algebra (ACA), A
-Personal Perspective</it> </li>
-  <li> Lihong Zhi, University of Chinese Academy of Sciences, <it>Symbolic-Numeric Computation</it> </li>
+  <li> Rob Corless, Western University, <em>Analysis vs Algebra in Symbolic Computation</em> </li>
+  <li> Jürgen Gerhard, Maplesoft, <em>A personal history with computer algebra</em> </li>
+  <li> David Jeffrey, Western University, <em>Albert Rich and the Soft Warehouse</em> </li>
+  <li> Michael Monagan, Simon Fraser University, <em>Efficiency Problems in the History of Maple</em> </li>
+  <li> Arthur Norman, Cambridge University, <em>60+ years of Applications: a perspective from Reduce</em> </li>
+  <li> Tateaki Sasaki, University of Tsukuba, <em>Symbolic Computation in 1974-1976 in Japan</em> </li>
+  <li> Stephen Watt, University of Waterloo, <em>TBA</em> </li>
+  <li> Michael Wester, University of New Mexico, <em>30 Years of Applications of Computer Algebra (ACA), A
+Personal Perspective</em> </li>
+  <li> Lihong Zhi, University of Chinese Academy of Sciences, <em>Symbolic-Numeric Computation</em> </li>
 </ul>
