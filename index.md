@@ -19,7 +19,7 @@
   <li> Jürgen Gerhard, Maplesoft, <sl>A personal history with computer algebra</sl> </li>
   <li> David Jeffrey, Western University, <sl>Albert Rich and the Soft Warehouse</sl> </li>
   <li> Michael Monagan, Simon Fraser University, <sl>Efficiency Problems in the History of Maple</sl> </li>
-  <li> Arthur Norman, Cambridge University, <sl>60+ years of Applications: a perspective from Reduce</sl> <li>
+  <li> Arthur Norman, Cambridge University, <sl>60+ years of Applications: a perspective from Reduce</sl> </li>
   <li> Tateaki Sasaki, University of Tsukuba, <sl>Symbolic Computation in 1974-1976 in Japan</sl> </li>
   <li> Stephen Watt, University of Waterloo, <sl>TBA</sl> </li>
   <li> Michael Wester, University of New Mexico, <sl>30 Years of Applications of Computer Algebra (ACA), A
