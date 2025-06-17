@@ -5,7 +5,7 @@
 <H4> Session Organizers </H4>
 
 <ul> 
-<li> <A HREF="rcorless.github.io"> Robert M. Corless </A>, Dept. Computer Science, Western University </li>
+<li> <A HREF="https://rcorless.github.io"> Robert M. Corless </A>, Dept. Computer Science, Western University </li>
 <li> Arthur C. Norman, Trinity College, Cambridge </li>
 <li> Tomás Recio, Universidad de Nebrija </li>
 <li> William Turkel, Dept. History, Western University </li>
