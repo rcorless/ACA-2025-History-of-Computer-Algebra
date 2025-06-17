@@ -17,14 +17,14 @@
 <H4> Speakers </H4>
 
 <ul>
-  <li> Rob Corless, Western University, <em>Analysis vs algebra in symbolic computation</em> </li>
-  <li> Jürgen Gerhard, Maplesoft, <em>A personal history with computer algebra</em> </li>
-  <li> David Jeffrey, Western University, <em>The Contributions of Soft Warehouse to computer algebra</em> </li>
+  <li> Rob Corless, Western University, <A HREF="AnalysisVSAlgebra.pdf"><em>Analysis vs algebra in symbolic computation</em></A> </li>
+  <li> Jürgen Gerhard, Maplesoft, <A HREF="Abstract_Gerhard.pdf"><em>A personal history with computer algebra</em></A> </li>
+  <li> David Jeffrey, Western University, <A HREF=""><em>The Contributions of Soft Warehouse to computer algebra</em></A> </li>
   <li> Michael Monagan, Simon Fraser University, <A HREF="ACA-25-Monagan.pdf"><em>Efficiency problems in the history of Maple</em></A> </li>
-  <li> Arthur Norman, Cambridge University, <em>60+ years of applications: a perspective from Reduce</em> </li>
-  <li> Tateaki Sasaki, University of Tsukuba, <em>Symbolic computation in 1974-1976 in Japan</em> </li>
-  <li> Stephen Watt, University of Waterloo, <em>Portability of early CAS</em> </li>
-  <li> Michael Wester, University of New Mexico, <em>30 Years of Applications of Computer Algebra (ACA), a
-personal perspective</em> </li>
-  <li> Lihong Zhi, Academy of Mathematics and Systems Science, CAS, <em>Symbolic-Numeric Computation</em> </li>
+  <li> Arthur Norman, Cambridge University, <A HREF="aca25_abstract.pdf"><em>60+ years of applications: a perspective from Reduce</em></A> </li>
+  <li> Tateaki Sasaki, University of Tsukuba, <A HREF="ACA2025ssk.pdf"><em>Symbolic computation in 1974-1976 in Japan</em></A> </li>
+  <li> Stephen Watt, University of Waterloo, <A HREF="ACA_2025____Portability_of_Early_CAS____First_Thoughts.pdf"><em>Portability of early CAS</em></A> </li>
+  <li> Michael Wester, University of New Mexico, <A HREF="Wester.pdf"><em>30 Years of Applications of Computer Algebra (ACA), a
+personal perspective</em></A> </li>
+  <li> Lihong Zhi, Academy of Mathematics and Systems Science, CAS, <A HREF="symbolic-numeric computation.pdf"><em>Symbolic-Numeric Computation</em></A> </li>
 </ul>
