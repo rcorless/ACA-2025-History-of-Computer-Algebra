@@ -14,6 +14,9 @@
 
 <p> This ACA is the thirtieth in the series, and an appropriate time to look back at the history of computer algebra.  The speakers will present a multitude of views of this history.</p>
 
+<H5> Acknowledgements </H5>
+<p></p>We are grateful for support from the Rotman Institute of Philosophy, and from NSERC, for this project. </p>
+
 <H4> Speakers </H4>
 
 <ul>
