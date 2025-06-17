@@ -22,7 +22,7 @@
 <ul>
   <li> Rob Corless, Western University, <A HREF="AnalysisVSAlgebra.pdf"><em>Analysis vs algebra in symbolic computation</em></A> </li>
   <li> Jürgen Gerhard, Maplesoft, <A HREF="Abstract_Gerhard.pdf"><em>A personal history with computer algebra</em></A> </li>
-  <li> David Jeffrey, Western University, <A HREF="Jeffrey.pdf"><em>The Contributions of Soft Warehouse to computer algebra</em></A> </li>
+  <li> David Jeffrey, Western University, <A HREF="Jeffrey.pdf"><em>Soft Warehouse, Derive and Computer Algebra</em></A> </li>
   <li> Michael Monagan, Simon Fraser University, <A HREF="ACA-25-Monagan.pdf"><em>Efficiency problems in the history of Maple</em></A> </li>
   <li> Arthur Norman, Cambridge University, <A HREF="aca25_abstract.pdf"><em>60+ years of applications: a perspective from Reduce</em></A> </li>
   <li> Tateaki Sasaki, University of Tsukuba, <A HREF="ACA2025ssk.pdf"><em>Symbolic computation in 1974-1976 in Japan</em></A> </li>
