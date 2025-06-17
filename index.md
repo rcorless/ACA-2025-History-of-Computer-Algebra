@@ -7,7 +7,7 @@
 <ul> 
 <li> <A HREF="https://rcorless.github.io"> Robert M. Corless </A>, Dept. Computer Science, Western University </li>
 <li> <A HREF="https://www.varsity.co.uk/interviews/29764"> Arthur C. Norman (link goes to an interview on the subject of the history of computer science) </A>, Trinity College, Cambridge </li>
-<li> <A HREF="https://www.nebrija.com/en/research/groups/mathematics.php"> Tomás Recio (link goes to the page of the research group)</A>, Universidad de Nebrija </li>
+<li> <A HREF="https://personales.unican.es/reciot/"> Tomás Recio </A>, Universidad de Nebrija </li>
 <li> <A HREF="https://williamjturkel.net/"> William Turkel </A>, Dept. History, Western University </li>
 <li> <A HREF="https://cs.uwaterloo.ca/~smwatt/"> Stephen Watt </A>, Cheriton School of Computer Science, University of Waterloo </li>
 </ul>
