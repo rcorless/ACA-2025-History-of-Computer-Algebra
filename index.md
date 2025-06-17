@@ -1,9 +1,11 @@
-<H2> History of Computer Algebra Session </H2>
+<H2> History of Computer Algebra Session at ACA 2025 Crete </H2>
 
-<H4> Organizers </H4>
+<A HREF="https://aca2025.github.io/"> Conference web page for ACA 2025 </A>
+
+<H4> Session Organizers </H4>
 
 <ul> 
-<li> Robert M. Corless, Dept. Computer Science, Western University </li>
+<li> <A HREF="rcorless.github.io"> Robert M. Corless </A>, Dept. Computer Science, Western University </li>
 <li> Arthur C. Norman, Trinity College, Cambridge </li>
 <li> Tomás Recio, Universidad de Nebrija </li>
 <li> William Turkel, Dept. History, Western University </li>
