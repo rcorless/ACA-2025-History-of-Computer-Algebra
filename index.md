@@ -24,5 +24,5 @@
   <li> Stephen Watt, University of Waterloo, <em>Portability of early CAS</em> </li>
   <li> Michael Wester, University of New Mexico, <em>30 Years of Applications of Computer Algebra (ACA), a
 personal perspective</em> </li>
-  <li> Lihong Zhi, University of Chinese Academy of Sciences, <em>Symbolic-Numeric Computation</em> </li>
+  <li> Lihong Zhi, Academy of Mathematics and Systems Science, CAS, <em>Symbolic-Numeric Computation</em> </li>
 </ul>
